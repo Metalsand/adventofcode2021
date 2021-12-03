@@ -1,0 +1,25 @@
+﻿using System;
+
+public class Class1
+{
+	public Class1()
+	{
+		string file = 'input.txt';
+		StreamReader sr = new StreamReader(file);
+		int increase = 0;
+		int decrease = 0;
+		int last = sr.ReadLine();
+
+        while (!sr.EndOfStream)
+        {
+			int current = sr.ReadLine();
+			if (last > current)//decrease
+			{
+				decrease++;
+			} else { increase++; }
+			last = current;
+        }
+		Console.WriteOutput("Increases are " + increase);
+		Console.WriteOutput("Decreases are at " + decrease);
+	}
+}

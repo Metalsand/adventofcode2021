@@ -1,0 +1,15 @@
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\day1.exe
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\day1.deps.json
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\day1.runtimeconfig.json
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\day1.dll
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\ref\day1.dll
+F:\Users\mjohnson\adventofcode\day1\bin\Debug\net6.0\day1.pdb
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.csproj.AssemblyReference.cache
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.AssemblyInfoInputs.cache
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.AssemblyInfo.cs
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.csproj.CoreCompileInputs.cache
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.dll
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\ref\day1.dll
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.pdb
+F:\Users\mjohnson\adventofcode\day1\obj\Debug\net6.0\day1.genruntimeconfig.cache
