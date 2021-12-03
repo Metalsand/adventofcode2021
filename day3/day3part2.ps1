@@ -28,4 +28,4 @@ for($i = 0; $i -lt 1; $i++)
         #Write-Output($bitPosition)
     }
 }
-Write-Output("Final input data " + $inputData)
+Write-Output("Final input data count " + $inputData.Count)
